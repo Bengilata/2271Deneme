@@ -1,0 +1,6 @@
+print("Bu dosya hasar görmüş.");
+dosyanın sıkıntısı var
+dosya haarlı
+hasar dosya
+dosya yok
+dosya iptal
